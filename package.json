@@ -35,7 +35,7 @@
   "license": "MIT",
   "main": "index.js",
   "peerDependencies": {
-    "gatsby": "^4.13.1"
+    "gatsby": "^5.0.0"
   },
   "repository": "https://github.com/harshnagoratela/gatsby-plugin-intl",
   "scripts": {
